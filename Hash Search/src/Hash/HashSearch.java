@@ -18,8 +18,8 @@ public class HashSearch {
            break;}
 	    }
 		}
-for(int x=0;x<arrH.length;x++){    
-    System.out.println(arrH[x]);
+		for(int x=0;x<arrH.length;x++){    
+			System.out.println(arrH[x]);
 		}
 
 	}
